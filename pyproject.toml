@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sanad-rag"
+version = "1.0.0"
+description = "Evidence-grounded bilingual (Arabic/English) RAG with citation verification and an offline evaluation harness"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+sanad = "sanad.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["sanad*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+markers = ["live: requires a running Ollama with the configured models"]
