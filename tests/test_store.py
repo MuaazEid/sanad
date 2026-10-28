@@ -69,7 +69,6 @@ def test_bm25_survives_punctuation_and_quotes(tmp_path):
     _ingest(s, HashingEmbedder(dim=64))
     assert s.search_bm25('"مترو" OR *') == []
     assert s.search_bm25("؟،؛") == []
-    s.close()
 
 
 def test_dense_search_orders_by_similarity(tmp_path):
