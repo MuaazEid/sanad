@@ -36,7 +36,7 @@
 | q15 | True | answered | True | 1.0 | أشهر كليات جامعة الجزيرة هي كلية الطب [S1, S2]. |
 | q17 | True | answered | True | 1.0 | في 30 نوفمبر 2022 أطلقت أوبن إيه آي روبوت المحادثة «تشات جي بي تي» [S1]. |
 | q19 | True | answered | True | 1.0 | نظام ألفا فولد الذي نال عنه مطوروه نصف جائزة نوبل في الكيمياء 2024 [S1]. |
-| q21 | True | answered | True | 1.0 | يبلغ متوسط الأمطار السنوية في الخرطوم حوالي 155 مليمتر (6.1 بوصة) سنويًا [S2]. |
+| q21 | True | answered | True | 1.0 | يبلغ متوسط الأمطار السنوية في الخرطوم حوالي 155 مليمتر (6.1 بوصة) سنوياً [S2]. |
 | q23 | True | insufficient | False | None | INSUFFICIENT_EVIDENCE |
 | q26 | True | answered | True | 1.0 | The Riyadh Metro was inaugurated on 27 November 2024, with the opening of Lines 1, 4, and 6 on 1 December 2024, followed by Lines 2 and 5 on 15 December 2024, and Line 3 on 5 Janua |
 | q27 | True | answered | True | 1.0 | The Riyadh Metro was recognized by Guinness World Records as the world's longest fully automated, driverless metro network, spanning 176 kilometres (109 mi) with six lines and 85 s |
@@ -57,3 +57,4 @@
 - Retrieval hit = a retrieved chunk contains the labeled evidence quote verbatim after Arabic/Latin normalization; labels are validated against the corpus.
 - Answer accuracy uses normalized gold-answer containment; it is strict about the fact and lenient about surrounding wording.
 - "Unsupported" = answered without a grounded, valid citation.
+
