@@ -1,0 +1,105 @@
+{
+  "documents": [
+    {
+      "id": "ar-riyadh",
+      "lang": "ar",
+      "title": "الرياض",
+      "path": "corpus/ar-riyadh.txt",
+      "source_url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6",
+      "revision": 77059712,
+      "revision_timestamp": "2026-10-24T23:34:19Z",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "ar-riyadh-metro",
+      "lang": "ar",
+      "title": "قطار الرياض",
+      "path": "corpus/ar-riyadh-metro.txt",
+      "source_url": "https://ar.wikipedia.org/wiki/%D9%82%D8%B7%D8%A7%D8%B1_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6",
+      "revision": 74869718,
+      "revision_timestamp": "2026-06-01T13:04:31Z",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "ar-desalination",
+      "lang": "ar",
+      "title": "تحلية مياه",
+      "path": "corpus/ar-desalination.txt",
+      "source_url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%AD%D9%84%D9%8A%D8%A9_%D9%85%D9%8A%D8%A7%D9%87",
+      "revision": 76445493,
+      "revision_timestamp": "2026-09-05T23:27:47Z",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "ar-gezira",
+      "lang": "ar",
+      "title": "جامعة الجزيرة",
+      "path": "corpus/ar-gezira.txt",
+      "source_url": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9",
+      "revision": 76541193,
+      "revision_timestamp": "2026-09-13T01:11:35Z",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "ar-ai",
+      "lang": "ar",
+      "title": "ذكاء اصطناعي",
+      "path": "corpus/ar-ai.txt",
+      "source_url": "https://ar.wikipedia.org/wiki/%D8%B0%D9%83%D8%A7%D8%A1_%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A",
+      "revision": 77080115,
+      "revision_timestamp": "2026-10-27T02:30:40Z",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "ar-khartoum",
+      "lang": "ar",
+      "title": "الخرطوم",
+      "path": "corpus/ar-khartoum.txt",
+      "source_url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AE%D8%B1%D8%B7%D9%88%D9%85",
+      "revision": 76870478,
+      "revision_timestamp": "2026-10-05T11:20:35Z",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "en-riyadh-metro",
+      "lang": "en",
+      "title": "Riyadh Metro",
+      "path": "corpus/en-riyadh-metro.txt",
+      "source_url": "https://en.wikipedia.org/wiki/Riyadh_Metro",
+      "revision": 1379857123,
+      "revision_timestamp": "2026-10-12T08:05:41Z",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "en-desalination",
+      "lang": "en",
+      "title": "Desalination",
+      "path": "corpus/en-desalination.txt",
+      "source_url": "https://en.wikipedia.org/wiki/Desalination",
+      "revision": 1373720568,
+      "revision_timestamp": "2026-09-07T15:32:33Z",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "en-khartoum",
+      "lang": "en",
+      "title": "Khartoum",
+      "path": "corpus/en-khartoum.txt",
+      "source_url": "https://en.wikipedia.org/wiki/Khartoum",
+      "revision": 1378835098,
+      "revision_timestamp": "2026-10-06T11:17:54Z",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "en-saudi-water",
+      "lang": "en",
+      "title": "Water supply and sanitation in Saudi Arabia",
+      "path": "corpus/en-saudi-water.txt",
+      "source_url": "https://en.wikipedia.org/wiki/Water_supply_and_sanitation_in_Saudi_Arabia",
+      "revision": 1345125627,
+      "revision_timestamp": "2026-03-24T12:28:21Z",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "corpus_license": "CC BY-SA 4.0 (text); code is MIT"
+}
